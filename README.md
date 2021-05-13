@@ -7,7 +7,7 @@
 3. Chrome (to run the Application).
 
 
-### STEPS TO RUN THE RPOJECT
+### STEPS TO RUN THE PROJECT
 1. At first download TASK-AC Zip File.
 2. Then Extract it 
 3. After that store the folder in the htdocs located in Xammp Folder ( C:\xampp\htdocs ).
