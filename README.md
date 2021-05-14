@@ -12,10 +12,12 @@
 2. Then Extract it 
 3. After that store the folder in the htdocs located in Xammp Folder ( C:\xampp\htdocs ).
 4. Start the Xammp and ,
-5. Run the Apache and mysql on Xamp.
-6. Open the Chrome browser then,
-7. Type this url http://localhost/aelum/ on chrome browser (the link may be different depends on system where it store).
-8. Then we can see our Application Running on browser.
+6. Run the Apache and mysql on Xamp.
+7. Then import the database, I have uploaded a userdata.sql you can import no need to make database 
+8. Open the Chrome browser then,
+9. Type this url http://localhost/aelum/ on chrome browser (the link may be different depends on system where it store).
+10. Then we can see our Application Running on browser.
 
-
+### SCREENSHOT
+<img scr="https://github.com/mirajhad/TASK-ACS/blob/main/images/ss.png"</img>
 ### Thank You
