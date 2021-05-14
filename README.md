@@ -19,5 +19,5 @@
 10. Then we can see our Application Running on browser.
 
 ### SCREENSHOT
-<img src="https://github.com/mirajhad/TASK-ACS/blob/main/images/ss.png" alt="Not found" width="500" height="600">
+<img src="https://github.com/mirajhad/TASK-ACS/blob/main/images/ss.png" alt="Not found">
 ### Thank You
